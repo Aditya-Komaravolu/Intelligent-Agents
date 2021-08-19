@@ -17,7 +17,7 @@ You are given a imaginary 5x5 room with integer dirt in each block (See images b
 
 ![image](https://user-images.githubusercontent.com/64011471/130115449-c6ce6c58-831a-4fc6-a2d4-c0976eafbd65.png)
 
-### *Video About Problem statement and explanation of code ->[Click Here](https://drive.google.com/file/d/12vz-MzxWKL9P-ErJg4dDb61lDQU69z25/view?usp=sharing)*
+# *Video About Problem statement and explanation of code ->[Click Here](https://drive.google.com/file/d/12vz-MzxWKL9P-ErJg4dDb61lDQU69z25/view?usp=sharing)*
 
 
 # (NOTE: All the graphical representations are completely based on the use-case of this repo.)
