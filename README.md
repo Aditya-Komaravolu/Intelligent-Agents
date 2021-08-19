@@ -1,17 +1,33 @@
 # Intelligent-Agents
-### *Video About Problem statement and explanation of code ->[Click Here](https://drive.google.com/file/d/12vz-MzxWKL9P-ErJg4dDb61lDQU69z25/view?usp=sharing)*
 
 An **agent** is anything that can be viewed as perceiving its environment through **sensors** and acting upon that environment through **effectors**.
 
 In ***Artificial Intelligence***, an **intelligent agent** is anything which perceives its environment, takes actions autonomously in order to achieve goals, and may improve its performance with learning or may use knowledge.
 
+## Problem Statement: (VACUUM CLEANER)
+You are given a imaginary 5x5 room with integer dirt in each block (See images below). Follow the rules given below and develop the agents!
+
+![image](https://user-images.githubusercontent.com/64011471/130115347-f6ddac10-e19c-4f4b-818e-28ce93d8274d.png)
+
+![image](https://user-images.githubusercontent.com/64011471/130115372-bd08c184-59ab-48f6-9371-159ea77edfe5.png)
+
+![image](https://user-images.githubusercontent.com/64011471/130115407-9610902f-7d0e-41ce-89be-16bbd7a27f13.png)
+
+![image](https://user-images.githubusercontent.com/64011471/130115427-ecf05505-9758-45f3-b2d4-56e229537fa6.png)
+
+![image](https://user-images.githubusercontent.com/64011471/130115449-c6ce6c58-831a-4fc6-a2d4-c0976eafbd65.png)
+
+### *Video About Problem statement and explanation of code ->[Click Here](https://drive.google.com/file/d/12vz-MzxWKL9P-ErJg4dDb61lDQU69z25/view?usp=sharing)*
+
+
 # (NOTE: All the graphical representations are completely based on the use-case of this repo.)
-#### Agents can be grouped into four classes based on their degree of perceived intelligence and capability:
+#### Agents can be grouped into five classes based on their degree of perceived intelligence and capability:
 
 ## Simple Reflex Agent:
 * The ***Simple reflex agents*** are the simplest agents. These agents take decisions on the basis of the current percepts and ignore the rest of the percept history.
 * These agents only succeed in the fully observable environment.
 * The Simple reflex agent does not consider any part of percepts history during their decision and action process.
+
 ![image](https://user-images.githubusercontent.com/64011471/130102867-3cdf88cf-4458-4345-86af-5152822076c2.png)
 ## Model Based Reflex Agent:
 The ***Model-based reflex agent*** can work in a partially observable environment, and track the situation.
